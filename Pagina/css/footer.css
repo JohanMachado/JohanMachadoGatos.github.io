@@ -1,0 +1,21 @@
+footer{
+    text-align: center;
+    background-color: grey;
+    border-top: 3px solid black ;
+    width: 100%;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    display: flex;
+}
+footer p{
+    font-family: sans-serif;
+    font-size: 25px;
+    color: white;
+}
+ul{ list-style: none;
+}
+.foter-div{
+    text-align: center;
+    margin-left: 25%;
+
+}

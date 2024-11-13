@@ -1,0 +1,37 @@
+body{
+    background-image: url(../img/Fondo3.jpg);
+    background-size: 100%;
+}
+.ContainerM{
+    margin: auto;
+    margin-top: 100px;
+    width: 900px;
+    height: 600px;
+    display: flex;
+}
+.img-ali{
+    width: 500px;
+    height: 500px;
+    border-radius: 50px;
+    border: 3px solid black;
+}
+.h2-alim{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+.p-alim{
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.ContainerM p{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.conainerm{
+    background-color: antiquewhite;
+    border-radius: 50px;
+    height: 550px;
+    text-align: center;
+    padding: 5px;
+    border: 1.5px solid black;
+}
